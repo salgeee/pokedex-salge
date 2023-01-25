@@ -16,7 +16,6 @@ A pokédex é um projeto front-end, foi um projeto criado utilizando um video no
 - JavaScript
 - HTML
 - CSS
-- Maven
 
 ## Back End
 - API PokéAPI
